@@ -25,11 +25,12 @@ public class ProductoService {
 	
 	public void altaProducto(ProductoTO producto) {
 		log.info("Inicia altaProducto()");
-		List<ProductoTO> produc = productoRepository.productosUsuario(9090);
+		List<ProductoTO> produc = productoRepository.productosUsuario(producto.getClaveUsuario());
 		log.info("Lista de productos de inicio" + produc.toString());
 	
 		if(produc.isEmpty()) {
 			log.info("Primer producto del cliente");
+			producto.setCuenta("129756435728735");
 			productoRepository.save(producto);
 			producto.setStatus("3");
 		}else {
