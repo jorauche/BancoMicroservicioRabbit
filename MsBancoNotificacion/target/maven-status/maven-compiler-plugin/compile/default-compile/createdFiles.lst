@@ -1,0 +1,15 @@
+beto\banco\notificacion\credito\evento\ProductoCreadoEvento.class
+beto\banco\notificacion\configuracion\RabbitMQConfig.class
+beto\banco\notificacion\repositorio\NotificacionRepository.class
+beto\banco\notificacion\NotificacionApplication.class
+beto\banco\notificacion\entity\NotificacionTO$NotificacionTOBuilder.class
+beto\banco\notificacion\evento\NotificacionCreadoEvento$NotificacionCreadoEventoBuilder.class
+beto\banco\notificacion\evento\NotificacionCreadoEventoBuilder.class
+beto\banco\notificacion\evento\NotificacionCreadoEvento.class
+beto\banco\notificacion\configuracion\AsynchronousConfig.class
+beto\banco\notificacion\entity\NotificacionTO.class
+beto\banco\notificacion\configuracion\ApplicationConfig.class
+beto\banco\notificacion\credito\evento\ProductoCreadoEvento$ProductoCreadoEventoBuilder.class
+beto\banco\notificacion\rabbitlistener\ProductoCreadoRabbitListener.class
+beto\banco\notificacion\service\NotificacionService.class
+beto\banco\notificacion\observer\NotificacionCreadoEventoListener.class

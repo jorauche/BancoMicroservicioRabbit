@@ -1,0 +1,16 @@
+beto\banco\credito\evento\ProductoCreadoEvento.class
+beto\banco\credito\configuracion\AsynchronousConfig.class
+beto\banco\credito\evento\ProductoCreadoEvento$ProductoCreadoEventoBuilder.class
+beto\banco\credito\solicitud\evento\SolicitudCreadoEvento$SolicitudCreadoEventoBuilder.class
+beto\banco\credito\entity\ProductoTO$ProductoTOBuilder.class
+beto\banco\credito\rabbitlistener\UsuarioProductoRabbitListener.class
+beto\banco\credito\exception\ProductoException.class
+beto\banco\credito\service\ProductoService.class
+beto\banco\credito\configuracion\RabbitMQConfig.class
+beto\banco\credito\evento\ProductoCreadoEventoBuilder.class
+beto\banco\credito\solicitud\evento\SolicitudCreadoEvento.class
+beto\banco\credito\repositorio\ProductoRepository.class
+beto\banco\credito\observer\ProductoCreadoListener.class
+beto\banco\credito\entity\ProductoTO.class
+beto\banco\credito\CreditoApplication.class
+beto\banco\credito\configuracion\ApplicationConfig.class
