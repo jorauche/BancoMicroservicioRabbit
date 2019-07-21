@@ -61,8 +61,11 @@ Ejecutar los siguientes comandos :
    ```
 
 ## MsBancoNotificacion 
+Este microservicio se va encarga de mandarle el mensaje al cliente en que estatus fue procesado su cuenta o en su caso de informarle 
+si no se pudo.
 
 Estar posicionado en esta ruta : BancoMicroservicioRabbit\MsBancoNotificacion
+
 Ejecutar los siguientes comandos :
  ```
   mvn clean package
