@@ -48,6 +48,7 @@ Ejecutar los siguientes comandos :
 Tiene como funcionalidad escuchar lo que esta en la cola que viene del modulo de MSUsuario y aqui guardamos el pedido solo de credito y debito.
 
 Estar posicionado en esta ruta : BancoMicroservicioRabbit\MSCredito
+
 Ejecutar los siguientes comandos :
   ```
   mvn clean package
