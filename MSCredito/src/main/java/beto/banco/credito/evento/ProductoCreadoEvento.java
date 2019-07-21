@@ -16,4 +16,5 @@ public class ProductoCreadoEvento {
 	private int claveUsuario;
 	private String descripcion;
 	private String estatus;
+	private String cuenta;
 }

@@ -34,6 +34,7 @@ public class ProductoTO {
 	
 	private int claveUsuario;
 	private String descripcion;
+	private String cuenta;
 	
 	/**
 	 * 1= tiene debito
