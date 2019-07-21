@@ -9,6 +9,7 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+	
 
 	<groupId>pep.banco.cliente</groupId>
 	<artifactId>MSBanco_Cliente</artifactId>
