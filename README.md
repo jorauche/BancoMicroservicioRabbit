@@ -82,4 +82,9 @@ Ejecutar los siguientes comandos :
    
   ## Proceso de Ejecucion 
   
+  Para ejecutar la prueba debemos de levantar todo los micorservicios no importa el orden excepto que al ultimo tenemos que levantar MSBanco_Cliente , este microservicio tiene el fronto donde metemos los datos.
+  
+  MSUsuario
+  MSCredito
+  MsBancoNotificacion
   
